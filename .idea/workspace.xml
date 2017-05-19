@@ -19,8 +19,8 @@
       <file leaf-file-name="PrincipalServidor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/fernandaochoa/Chat/Servidor/PrincipalServidor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+            <state relative-caret-position="460">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -31,11 +31,12 @@
       <file leaf-file-name="HiloEnviar.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/fernandaochoa/Chat/Servidor/HiloEnviar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="-777">
+              <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
               <folding>
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#475#476#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1440#1441#0" expanded="true" />
+                <element signature="e#1500#1501#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -106,14 +107,14 @@
         <option value="$PROJECT_DIR$/src/com/fernandaochoa/Viernes/Sockets2/Cliente.java" />
         <option value="$PROJECT_DIR$/src/com/fernandaochoa/Viernes/Properties.java" />
         <option value="$PROJECT_DIR$/src/com/fernandaochoa/Chat/LoQueSea.java" />
-        <option value="$PROJECT_DIR$/src/com/fernandaochoa/Chat/Servidor/HiloEnviar.java" />
         <option value="$PROJECT_DIR$/src/com/fernandaochoa/Chat/Cliente/PrincipalCliente.java" />
-        <option value="$PROJECT_DIR$/src/com/fernandaochoa/Chat/Servidor/PrincipalServidor.java" />
         <option value="$PROJECT_DIR$/src/com/fernandaochoa/Chat/Servidor/HiloRecibir.java" />
         <option value="$PROJECT_DIR$/src/com/fernandaochoa/Chat/Archivos/EnviarArchivos.java" />
         <option value="$PROJECT_DIR$/src/com/fernandaochoa/Chat/Archivos/RecibirArchivos.java" />
         <option value="$PROJECT_DIR$/src/com/fernandaochoa/Chat/Cliente/HiloEnviar.java" />
         <option value="$PROJECT_DIR$/src/com/fernandaochoa/Chat/Cliente/HiloRecibir.java" />
+        <option value="$PROJECT_DIR$/src/com/fernandaochoa/Chat/Servidor/HiloEnviar.java" />
+        <option value="$PROJECT_DIR$/src/com/fernandaochoa/Chat/Servidor/PrincipalServidor.java" />
       </list>
     </option>
   </component>
@@ -541,7 +542,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="816" height="616" extended-state="7" />
+    <frame x="1358" y="-8" width="816" height="616" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -604,20 +605,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/fernandaochoa/Martes/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fernandaochoa/Martes/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fernandaochoa/Martes/StudentT2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -977,10 +964,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/javax/swing/JMenuBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="92" column="13" lean-forward="false" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/awt/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="91" column="15" lean-forward="false" selection-start-line="91" selection-start-column="15" selection-end-line="91" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fernandaochoa/Chat/Servidor/PrincipalServidor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        <state relative-caret-position="460">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -989,11 +992,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fernandaochoa/Chat/Servidor/HiloEnviar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="-777">
+          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
           <folding>
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1440#1441#0" expanded="true" />
+            <element signature="e#1500#1501#0" expanded="true" />
           </folding>
         </state>
       </provider>

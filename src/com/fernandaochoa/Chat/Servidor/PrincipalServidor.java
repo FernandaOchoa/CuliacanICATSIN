@@ -1,6 +1,5 @@
 package com.fernandaochoa.Chat.Servidor;
 
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -12,6 +11,8 @@ public class PrincipalServidor extends JFrame {
     public JTextField ingresoMensaje;
     public JTextArea pantallaChat;
     public JMenuItem adjuntar;
+    public static String usuario;
+    public static PrincipalServidor ventanaServidor;
 
 
     private static String ipCliente;// = "10.0.0.4";
@@ -25,6 +26,9 @@ public class PrincipalServidor extends JFrame {
 
     }
 
+    public static void main(String[] args) {
+
+    }
     public void campoTexto() {
         //Campo de Texto en la parte inferior
         ingresoMensaje = new JTextField();
